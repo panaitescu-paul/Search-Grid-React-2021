@@ -4,7 +4,7 @@ The Search Grid is an App that makes it easy for users to ***search their favori
 
 
 ### Live Demo:
-Here is the link to the deployed ***Search Grid App***.
+Here is the link to the deployed [Search Grid App](https://planday-demo.000webhostapp.com/)***.
 
 
 ### Features:
