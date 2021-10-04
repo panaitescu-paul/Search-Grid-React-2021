@@ -27,3 +27,13 @@ Here is the link to the deployed ***Search Grid App***.
 ### Preview:
 
 ![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/1.png)
+
+![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/2.png)
+
+![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/3.png)
+
+![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/4.png)
+
+![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/5.png)
+
+![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/6.png)
