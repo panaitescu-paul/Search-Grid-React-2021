@@ -19,6 +19,7 @@ Here is the link to the deployed ***[Search Grid App](https://planday-demo.000we
 - Type Checking
 - Unit Testing
 - Custom Grid Size
+- Responsive Layout
 
 
 ### Technologies:
