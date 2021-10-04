@@ -1,0 +1,20 @@
+.row {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.controls {
+    text-align: center !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+    max-width: 18rem;
+}
+.custom-btn {
+    border: none;
+    background: transparent;
+    display: inline-block;
+}
+.custom-select {
+    max-width: 8rem;
+    display: inline-block;
+}

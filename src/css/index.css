@@ -1,0 +1,10 @@
+/* Imports */
+@import "./item.css";
+@import "./grid.css";
+@import "./filter.css";
+
+.app {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: 600px;
+}
