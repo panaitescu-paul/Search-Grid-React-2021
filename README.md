@@ -36,4 +36,7 @@ Here is the link to the deployed ***Search Grid App***.
 
 ![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/5.png)
 
-![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/6.png)
+<p align="center">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/7.png">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/8.png">
+</p>
