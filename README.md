@@ -6,6 +6,10 @@ The Search Grid is an App that makes it easy for users to ***search their favori
 ### Live Demo:
 Here is the link to the deployed ***[Search Grid App](https://planday-demo.000webhostapp.com/)***.
 
+<p align="center">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/7.png">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/8.png">
+</p>
 
 ### Features:
 - Pagination
@@ -25,11 +29,6 @@ Here is the link to the deployed ***[Search Grid App](https://planday-demo.000we
 - Jest testing framework
 
 ### Preview:
-
-<p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/7.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/8.png">
-</p>
 
 ![alt text](https://github.com/panaitescu-paul/Search-Grid-React-2021/blob/main/screenshots/1.png)
 
