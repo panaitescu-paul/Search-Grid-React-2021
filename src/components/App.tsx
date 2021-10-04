@@ -23,6 +23,8 @@ function App() {
             <Filter
                 onFilterChange={handleOnChange}
             />
+            
+            {/* Here you can easily customize the Grid Size (by changing the page size) */}
             <Grid pageSize={4}>
                 {filteredData.map((item, i) => {
                     return (
